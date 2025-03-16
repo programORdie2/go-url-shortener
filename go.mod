@@ -1,4 +1,4 @@
-module example.com/main
+module github.com/programordie2/go-url-shortener
 
 go 1.24.1
 
